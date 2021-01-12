@@ -1,7 +1,7 @@
 # MLH-LHD-Tic-Tac-Toe-Challenge
 Challenge: "Recreate the classic game - tic tac toe."
 
-Referemces:
+References:
 
 Tic Tac Toe Tutorial
 https://morioh.com/p/b7a99db54c4a
