@@ -1,0 +1,90 @@
+.container1 {
+	width: 500px;
+	height: 1px;
+	margin: auto;
+	margin-top: 50px;
+}
+.container2 {
+	width: 500px;
+	height: 100px;
+	margin: auto;
+	margin-top: 10px;
+}
+.container3 {
+	width: 320px;
+	height: 320px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.container4 {
+	width: 320px;
+	height: 320px;
+	margin: auto;
+	margin-top: 25px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 100px;
+}
+
+.row {
+	height: 100px;
+}
+
+.col {
+	height: 100px;
+	width: 100px;
+	float: left;
+	font-size: 100px;
+	text-align: center;
+	line-height: 100px;
+}
+
+.col:hover {
+	background-color: grey;
+}
+
+.border-b {
+	border-bottom: 10px solid white;
+}
+
+.border-r {
+	border-right: 10px solid white;
+}
+
+.winner {
+	color: yellow;
+}
+
+.resetbutton {
+	text-align: center;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 15px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  color: red;
+  border-color: blue;
+  border-width: 5px;
+  background-color: yellow;
+  box-shadow: 0 5px grey;
+}
+
+.button:hover {
+	background-color: red;
+	color: yellow;
+
+}
+
+.button:active {
+  background-color: blue;
+  color: yellow;
+  border-color: red;
+  box-shadow: none;
+  transform: translateY(5px);
+}
